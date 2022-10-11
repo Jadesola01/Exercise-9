@@ -17,3 +17,6 @@ The networ address is therefore  equal to 193.16.20.0/29
 
 # Number of hosts 
 The number of hosts for the given subnet is 254
+
+# The broadcast IP Address 
+The broadcast IP Address is then equal to 193.16.20.255
