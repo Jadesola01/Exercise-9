@@ -21,5 +21,10 @@ The number of hosts for the given subnet is 254
 # The broadcast IP Address 
 The broadcast IP Address is then equal to 193.16.20.255
 
-# Range of Hosts 
-The hosts for the given subnet will range from 193.16.20.1 to 193.16.20.254
+# Range of IP Addresses 
+The IP Addresses for the given subnet will range from 193.16.20.1 to 193.16.20.254
+
+IP Address - 193.16.20.0
+Number of hosts - 254
+Range of IP Addresses - 193.16.20.1 - 193.16.20.254
+Broadcast IP Address - 193.16.20.255
