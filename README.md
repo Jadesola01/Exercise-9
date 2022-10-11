@@ -11,3 +11,6 @@ The subnet 193.16.20.35/29 is equal to 10101101.00010000.00010100.00100011
 The net mask of the subnet is also equal to 11111111.11111111.11111111.00000000
 using the and operation, the Network Ip becomes 10101101.00010000.00010100.00000000
 The Network Ip is therefore equa to 193.16.20.0
+
+# Network address
+The networ address is therefore  equal to 193.16.20.0/29
