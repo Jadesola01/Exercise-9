@@ -14,3 +14,6 @@ The Network Ip is therefore equa to 193.16.20.0
 
 # Network address
 The networ address is therefore  equal to 193.16.20.0/29
+
+# Number of hosts 
+The number of hosts for the given subnet is 254
