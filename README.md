@@ -16,15 +16,15 @@ The Network Ip is therefore equa to 193.16.20.0
 The networ address is therefore  equal to 193.16.20.0/29
 
 # Number of hosts 
-The number of hosts for the given subnet is 254
+The number of hosts for the given subnet is 8
 
 # The broadcast IP Address 
 The broadcast IP Address is then equal to 193.16.20.255
 
 # Range of IP Addresses 
-The IP Addresses for the given subnet will range from 193.16.20.1 to 193.16.20.254
+The IP Addresses for the given subnet will range from 193.16.20.1 to 193.16.20.8
 
 IP Address - 193.16.20.0
-Number of hosts - 254
-Range of IP Addresses - 193.16.20.1 - 193.16.20.254
+Number of hosts - 8
+Range of IP Addresses - 193.16.20.1 - 193.16.20.8
 Broadcast IP Address - 193.16.20.255
